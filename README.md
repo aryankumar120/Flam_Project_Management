@@ -96,9 +96,9 @@ Mockups have been generated:
 
 Attached Figma link : https://www.figma.com/design/JqsqztKApCk2T9VGOQefm7/Workspace?node-id=52-176&t=RpO4zW2zsTzIi5K9-1
 
+👉 *(Attached as mockup visuals in your submission).*
 </aside>
 
-👉 *(Attached as mockup visuals in your submission).*
 <img width="163" alt="image" src="https://github.com/user-attachments/assets/d336ee6e-60fe-467b-b116-2a1cbee9dd63" />
 <img width="164" alt="image (1)" src="https://github.com/user-attachments/assets/b675ccf2-2300-4a7d-94b1-04d084f46895" />
 <img width="162" alt="image (5)" src="https://github.com/user-attachments/assets/aa6ac1f0-1a27-4148-9816-756cae4ffb05" />
